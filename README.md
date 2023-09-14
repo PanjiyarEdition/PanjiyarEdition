@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panjiyaredition&label=Profile%20views&color=0e75b6&style=flat" alt="panjiyaredition" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=panjiyaredition" alt="panjiyaredition" /></a> </p>
-
 - 🔭 I’m currently Final Year Students [Assam University, Silchar](Under BTech Program)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PanjiyarEdition](https://github.com/PanjiyarEdition)
