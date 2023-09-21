@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently Final Year Students [Assam University, Silchar](Under BTech Program)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PanjiyarEdition](GitHub)
+- 👨‍💻 All of my projects are available at ( https://github.com/PanjiyarEdition )
 
-- 📫 How to reach me <b>https://www.linkedin.com/in/jigarpanjiyar/</b> <b><i> LinkedIn</i> </b>
+- 📫 How to reach me <b> https://www.linkedin.com/in/jigarpanjiyar/</b> <b> <i> LinkedIn </i> </b>
 
-- 📄 Know about my experiences [www.panjiyaredition.in) Coming Soon
+- 📄 Know about my experiences www.panjiyaredition.in (Coming Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
