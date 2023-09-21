@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jigar Panjiyar</h1>
+<h1 align="center">Hi 👋, I'm <b> Jigar Panjiyar </b></h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panjiyaredition&label=Profile%20views&color=0e75b6&style=flat" alt="panjiyaredition" /> </p>
 
 - 🔭 I’m currently Final Year Students [Assam University, Silchar](Under BTech Program)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PanjiyarEdition](https://github.com/PanjiyarEdition)
+- 👨‍💻 All of my projects are available at [https://github.com/PanjiyarEdition](GitHub)
 
 - 📫 How to reach me <b>https://www.linkedin.com/in/jigarpanjiyar/</b> <b><i> LinkedIn</i> </b>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A4Ps33YKCtZZi5SVU_4LeJ65VuRUnVEw/view?usp=sharing](https://drive.google.com/file/d/1A4Ps33YKCtZZi5SVU_4LeJ65VuRUnVEw/view?usp=sharing)
+- 📄 Know about my experiences [www.panjiyaredition.in) Coming Soon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
