@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PanjiyarEdition](https://github.com/PanjiyarEdition)
 
-- 📫 How to reach me <a>https://www.linkedin.com/in/jigarpanjiyar/</a> LinkedIn 
+- 📫 How to reach me <b>https://www.linkedin.com/in/jigarpanjiyar/</b> <b><i> LinkedIn</i> </b>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A4Ps33YKCtZZi5SVU_4LeJ65VuRUnVEw/view?usp=sharing](https://drive.google.com/file/d/1A4Ps33YKCtZZi5SVU_4LeJ65VuRUnVEw/view?usp=sharing)
 
