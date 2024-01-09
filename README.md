@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <b> Jigar Panjiyar </b></h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panjiyaredition&label=Profile%20views&color=0e75b6&style=flat" alt="panjiyaredition" /> </p>
+
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jigarpanjiyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jigarpanjiyar/" height="30" width="40" /></a>
@@ -9,6 +11,7 @@
 <a href="https://twitter.com/jigar_panjiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jigar_panjiyar" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jigarpanjiyar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jigarpanjiyar10" height="30" width="40" /></a>
 </p>
+
 - 🔭 I’m currently Final Year Students [Assam University, Silchar](Under BTech Program)
 
 - 👨‍💻 All of my projects are available at ( https://github.com/PanjiyarEdition )
