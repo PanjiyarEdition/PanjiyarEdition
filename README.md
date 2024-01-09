@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panjiyaredition&label=Profile%20views&color=0e75b6&style=flat" alt="panjiyaredition" /> </p>
 
-<h3 align="center">Connect With Me:</h3>
 <p align="center">
+<h3 align="center">Connect With Me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jigarpanjiyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jigarpanjiyar/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jigarpanjiyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/jigarpanjiyar?igshid=otk0yzhjmdvlza==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@PanjiyarEdition" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@panjiyaredition" height="30" width="40" /></a>
