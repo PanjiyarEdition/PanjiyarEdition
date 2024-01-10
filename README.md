@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panjiyaredition&show_icons=true&locale=en&layout=compact" alt="panjiyaredition" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panjiyaredition&show_icons=true&locale=en" alt="panjiyaredition" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panjiyaredition&" alt="panjiyaredition" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panjiyaredition&" alt="panjiyaredition" /></p>
