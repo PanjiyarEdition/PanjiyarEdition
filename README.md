@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panjiyaredition&label=Profile%20views&color=0e75b6&style=flat" alt="panjiyaredition" /> </p>
 
-<h1 align="left"> Connect With Me:  <div align="left>
+<h1 align="left"> Connect With Me:  <div align="right>
   <a href="https://www.youtube.com/@PanjiyarEdition" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  /> </a>
   <a href="https://www.instagram.com/jigarpanjiyar/" target="_blank">
