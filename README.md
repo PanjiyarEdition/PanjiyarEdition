@@ -1,4 +1,4 @@
-                                                           <!--VISITOR ICON LINK END HERE -->
+                                                           VISITOR ICON LINK END HERE
                                                            
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=panjiyaredition&label=Visitors&color=0e75b6&style=flat" alt="panjiyaredition" /> </p>
 
@@ -45,7 +45,7 @@
 
                                                            <!--LANGUAGE & TOOLS END HERE -->
 
-                                                           <!--OLD STATS , LANGUAGES & STEAKS HERE -->
+                                                           <!--OLD STATS , LANGUAGES & STREAK HERE -->
 <div>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panjiyaredition&show_icons=true&locale=en&layout=compact" 
  alt="panjiyaredition" /></p>
