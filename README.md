@@ -27,7 +27,7 @@
   </a>
   <a href="jigarpanjiyar@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />  </a>
-  <a href="https://www.linkedin.com/in/jigarpanjiyar/" target="_blank">
+  <a href="mailto:jigarpanjiyar@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />  </a>
   <a href="https://www.facebook.com/jigar.panjiyar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />  </a>
