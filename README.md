@@ -95,7 +95,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PanjiyarEdition/PanjiyarEdition/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/PanjiyarEdition/PanjiyarEdition/output/snake.svg](https://github.com/PanjiyarEdition/PanjiyarEdition/blob/963f9087e96eae1ffca05675c7e99f5d95852e5c/snake.yml)" alt="Snake animation" />
 
 ###
 
