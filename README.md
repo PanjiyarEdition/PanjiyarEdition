@@ -43,18 +43,11 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panjiyaredition&show_icons=true&locale=en" alt="panjiyaredition" /></p>
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panjiyaredition&" alt="panjiyaredition" /></p>
-</div>
+</div> 
 
-
-
-
-
-<br clear="both">
-
-<img src="[https://raw.githubusercontent.com/PanjiyarEdition/PanjiyarEdition/output/snake.svg](https://github.com/PanjiyarEdition/PanjiyarEdition/blob/963f9087e96eae1ffca05675c7e99f5d95852e5c/snake.yml)" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PanjiyarEdition&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<img src="https://github.com/PanjiyarEdition/PanjiyarEdition/blob/963f9087e96eae1ffca05675c7e99f5d95852e5c/snake.yml" alt="Snake animation" />
