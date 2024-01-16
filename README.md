@@ -5,8 +5,8 @@
 
 <table>
   <tr>
-    <th> <h1 align="left">Connect With Me: </h1> </th>
-    <th><div align="right>
+    <th> <h1 align="center">Connect With Me: </h1> </th>
+    <th><div align="center>
   <a href="https://www.youtube.com/@PanjiyarEdition" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  /> 
   </a>
