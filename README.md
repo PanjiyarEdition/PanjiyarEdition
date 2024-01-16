@@ -61,6 +61,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PanjiyarEdition&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="210" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=PanjiyarEdition&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="250" alt="streak graph"  />
  
 </div>
