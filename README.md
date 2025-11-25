@@ -1,9 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=panjiyaredition&label=Visitors_No.&color=0e75b6&style=flat" alt="panjiyaredition" /> </p>
                                      
-<h1 align="center">Hi 👋, I'm <b> Jigar Panjiyar </b></h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
-
-- 🔭 I’m currently Final Year Students [Assam University, Silchar](Under BTech Program)
+<h1 align="center">Hi 👋, I'm <b> JIGAR PANJIYAR </b></h1>
+<h3 align="center">WEB DEVELOPER & DATA ANAYLYST </h3>
 
 - 👨‍💻 All of my projects are available at ( https://github.com/PanjiyarEdition )
 
